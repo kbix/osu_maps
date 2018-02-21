@@ -1,4 +1,4 @@
-osu file format v14
+﻿osu file format v14
 
 [General]
 AudioFilename: audio.mp3
@@ -21,7 +21,7 @@ TimelineZoom: 2.3
 [Metadata]
 Title:Save you Save me
 TitleUnicode:Save you Save me
-Artist:Kaede Hondo, Saori Oonishi, Azumi Waki, Hina Kino, Risae Matsuda, Eri Suzuki
+Artist:Hondo Kaede, Oonishi Saori, Waki Azumi, Kino Hina, Matsuda Risae, Suzuki Eri
 ArtistUnicode:衛藤可奈美, 十条姫和, 柳瀬舞衣, 糸見沙耶香, 益子薫, 古波蔵エレン
 Creator:chainpullz
 Version:Shrine Maiden (TV)
@@ -559,7 +559,7 @@ Combo8 : 193,106,251
 191,363,37205,5,0,0:0:0:0:
 183,270,37363,1,0,0:0:0:0:
 317,212,37521,1,0,0:0:0:0:
-104,327,37679,1,0,0:0:0:0:
+98,232,37679,1,0,0:0:0:0:
 232,289,37837,101,0,0:0:0:0:
 207,280,37916,1,0,0:0:0:0:
 183,270,37995,1,0,0:0:0:0:
